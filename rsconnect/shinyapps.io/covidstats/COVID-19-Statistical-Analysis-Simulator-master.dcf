@@ -1,0 +1,12 @@
+name: COVID-19-Statistical-Analysis-Simulator-master
+title: COVID-19-Statistical-Analysis-Simulator-master
+username:
+account: covidstats
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2528294
+bundleId: 3342261
+url: https://covidstats.shinyapps.io/COVID-19-Statistical-Analysis-Simulator-master/
+when: 1593671092.15177
+asMultiple: FALSE
+asStatic: FALSE
