@@ -35,6 +35,8 @@ This dashboard demonstrates some recent news and the related statistics about th
   
  
  and it's done... Explore R and create beautiful dashboards and deploy them using shinyapps.io 
+ 
+ 
  Cheerio 🙋‍♀️.
  
   
