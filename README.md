@@ -31,3 +31,4 @@ This dashboard demonstrates some recent news and the related statistics about th
   
   
   ![GitHub Logo](C:\Users\subroto mittra\Desktop\STUTI\Stuti Images\WhatsApp Image 2020-07-02 at 14.01.06.jpeg)
+  Format: ![Deployed message](C:\Users\subroto mittra\Desktop\STUTI\Stuti Images\WhatsApp Image 2020-07-02 at 14.01.06.jpeg)
