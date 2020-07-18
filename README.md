@@ -16,6 +16,9 @@ This dashboard demonstrates some recent news and the related statistics about th
 ## ✨Inspiration --
   https://coronavirus.jhu.edu/map.html John Hopkins University covid-19 webapp.
   
+## Dataset --
+  https://github.com/CSSEGISandData/COVID-19 .
+  
 ## **COVIDstats** made with ❤ by me--
 
   https://covidstats.shinyapps.io/COVID-19-Statistical-Analysis-Simulator-master/
