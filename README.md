@@ -24,7 +24,7 @@ This dashboard demonstrates some recent news and the related statistics about th
   https://covidstats.shinyapps.io/COVID-19-Statistical-Analysis-Simulator-master/
   
   
-## 🚀Deployment --
+## 🚀 Deployment --
 
   - publish your app on Rstudio
   - create an account on https://www.shinyapps.io/
