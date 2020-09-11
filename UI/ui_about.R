@@ -5,10 +5,10 @@ body_about <- dashboardBody(
         box(
           title = div("About this project", style = "padding-left: 20px", class = "h2"),
           column(
-            h3("The COVstat"),
-            "This dashboard demonstrates some recent news about the Coronavirus pandemic. 
-            This App is a simulator, that reads from the John Hopkins dataset, and shows some data related to mortality,  
-            recovery, infected, and etc..",
+            h3("The COVIDstats"),
+            "The COVIDstats dashboard demonstrates some recent news about the Coronavirus pandemic. 
+            This App is a simulator, that reads from the John Hopkins dataset, and shows some data related to death rate,  
+            recovery, affected etc.",
             tags$br(),
             h3("COVID-19 Social Distancing"),
             "Please stay safe and respect social distancing, which can be tough on people and could disrupt the social and economic loop of life.C",
@@ -19,7 +19,7 @@ body_about <- dashboardBody(
             Nothing in this App constitutes legal advice.",
             tags$br(),
             h3("Creator"),
-            "Made with love by Stuti Mittra",
+            "Made with ❤ by Stuti Mittra",
             tags$br(),
             tags$a(href = "https://www.linkedin.com/in/stuti-mittra-577160162/", "LinkedIn"), " | ",
             tags$a(href = "https://github.com/stuti24m", "GitHub"), " | ",
