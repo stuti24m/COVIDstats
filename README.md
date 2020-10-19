@@ -36,7 +36,6 @@ This dashboard demonstrates some recent news and the related statistics about th
   ![WhatsApp Image 2020-07-02 at 14 01 06](https://user-images.githubusercontent.com/51860224/86337422-b8bc6400-bc6e-11ea-83cc-3e7419258945.jpeg)
 
  <br>
- <br>
  
  and it's done... Explore R and create beautiful dashboards and deploy them using shinyapps.io 
  
