@@ -14,7 +14,7 @@ This dashboard demonstrates some recent news and the related statistics about th
     8. wbstats
 
 ## ✨Inspiration --
-  https://coronavirus.jhu.edu/map.html John Hopkins University covid-19 webapp.
+  https://coronavirus.jhu.edu/map.html John Hopkins University covid-19 webapp
   
 ## Dataset --
   https://github.com/CSSEGISandData/COVID-19 .
